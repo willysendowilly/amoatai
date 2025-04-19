@@ -1,2 +1,30 @@
-# amoatai
-amo a tai
+<div data-v-6d520e57="" class="preview">
+    <div data-v-6d520e57="" class="flex gap-2"><img data-v-6d520e57="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEZSURBVHgBpZSBbYMwEEW/DwYAtQPQCZoNakVEyhZlg6YTNN6ADUq3iBSUuhukGzBAKxgA2z0jFKGmqhL8pJMw6B72HYfAL1opE8TxE19KjgVHwtFxHI21b5G1OtW6meaI6eI7zzcEvIyJf+NcY5xTt4dDdSZp89wnb3E527Su1UnytVwWEdErrsQCzzd1XQquQYYoeocQGa6nQ9/fkSGSMwWexMbxhvgYjwiAG/HAMbQxhIWXJAgj8ZIOYXReckQADvgk7vUHAhBCVER9X2LukYRo+BvTxMPkBQrzUOlu1/iagGegnCFS6X5fDRua3m1XqwJ+ip3L/kkedj6+GGeSQbReZzBGOucKfniP8X/iu8BrzbNSjiU48QN51lvVHMAHrwAAAABJRU5ErkJggg==" alt="browser-img"><img data-v-6d520e57="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAE0SURBVHgBpZRBUsJAEEV/N5RGV3Gj4ApOIDeQAyBVnEBuIJ4g5ga5gXgCq3DhUrwBnkB2WLrJRg1FZtoesTSiRZHkbXpmqrtrerr/EFZ4vPb93WpyRkAbkBZAvtpY7cQIrmAwrveSaTaGspun0faACcEy8H9EMLVAWO8mwz9JXm68QIALbIjzPThJwu8ks5HXrxAukZNU5PywO49odus12OCOBA3kRuLXdKfJWKBdLIGDfI+TAVcJpyhBhXHM8tnGMkiL17VzM8jn5SCVukmss0UTlMAKPbC1uEcJtJQhb1kvKlySSsColnivF8eWOEQxQidGdqta5z1SLeRKZNR//0uEv1T8rBrSIgOsmWDS0g0hrHXm0c/ZCk5LlYX7S9AnkiPROXCBol0Qwvgt9aKmPkE25gMxKXE9Z8iwqAAAAABJRU5ErkJggg==" alt="browser-img"><img data-v-6d520e57="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAExSURBVHgBpZNBTsMwEEX/TEoXiEWOYNQDUJbQCtobsEQCRG9AOUGaG+QGBIUFt0hAoG7bC1Q+gtegeLBbCREqUJO8nWXP9/eMP+EXKr8I0T24I6ERgfoghBAYgSzE4hHlZ6HHz/pnDVUE3q6mjCBaF/6BAFpKifVZlm6JqPl1xJZn2BELO9ODp/hbpPd6M5GAHlATK3Kvh1lCKr9U3O3m3gzqY+wHH3IQ7I0aCnhC7tgp2w5u0QIhOWc3yj5aQER99pbQjtCLGLTDsHvTAi0gi6XvyQtaULKk7OacoOGThKDBQcF6nBqQxGiAiMvQSap9Y7E6zbybekIWsR5sQlhJce/dZYgoclFV/5QbZyFeDdcXY0vEo+YTFdhy5LYmLvZH2Pwj4w4u3bqw+5zo47TSwy+8eHBtXgSP8QAAAABJRU5ErkJggg==" alt="browser-img"></div>
+    <div data-v-6d520e57="" class="header-url mb-10"><span data-v-6d520e57="" class="text-background"></span></div>
+    <div data-v-6d520e57="" class="-mb-10"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3iof6EclqePezHDibBiykI?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <div data-v-6d520e57="" class="img-content border-2 border-transparent">
+      <div data-v-6d520e57="" class="carousel-inner" style="transform: translateX(0%);">
+        <div data-v-6d520e57="" class="carousel-item"><img data-v-6d520e57="" class="img-carousel" src="https://storage.googleapis.com/memoryit-dev-test.appspot.com/users-images/new/1745064313376.png" alt="Carousel image"></div>
+        <div data-v-6d520e57="" class="carousel-item"><img data-v-6d520e57="" class="img-carousel" src="https://storage.googleapis.com/memoryit-dev-test.appspot.com/users-images/new/1745064318156.png" alt="Carousel image"></div>
+      </div>
+    </div>
+    <div data-v-6d520e57="" class="emoji-rain"><span data-v-6d520e57="" class="emoji" style="left: 92.85%; top: 94.0281%; font-size: 12.9925px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 14.774%; top: 61.7709%; font-size: 23.2096px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 18.087%; top: 59.2248%; font-size: 14.6717px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 22.2644%; top: 54.1457%; font-size: 21.8376px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 51.4723%; top: 56.3303%; font-size: 14.7943px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 64.6053%; top: 60.8256%; font-size: 20.9958px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 16.2242%; top: 11.1399%; font-size: 30.4564px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 75.0014%; top: 70.8521%; font-size: 16.251px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 20.8158%; top: 43.6903%; font-size: 21.9583px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 11.7345%; top: 19.2538%; font-size: 21.5426px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 95.416%; top: 58.5119%; font-size: 31.2945px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 67.3043%; top: 8.85883%; font-size: 17.6611px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 22.1851%; top: 25.848%; font-size: 31.9826px;">❤️</span><span data-v-6d520e57="" class="emoji" style="left: 21.1286%; top: 58.256%; font-size: 12.3146px;">❤️</span></div>
+    <div data-v-6d520e57="" class="mt-6">
+      <h1 data-v-6d520e57="" class="text-center font-bold text-xl">Eu amo você, sua presença, seu estado de espírito e seu estresse constante.</h1>
+      <p data-v-6d520e57="" class="text-center mt-4 font-semibold"><span style="white-space: nowrap;">1 mes</span>, <span style="white-space: nowrap;">5 dias</span>. <span style="white-space: nowrap;"></span> <span style="white-space: nowrap;"></span> <span style="white-space: nowrap;"></span></p>
+      <div data-v-6d520e57="" class="divisor"></div>
+      <div data-v-6d520e57="" class="mt-6 mb-6 text-center">
+        <p>Amar, às vezes, é escolher ficar mesmo quando a cabeça grita que tá tudo bagunçado.</p>
+        <p> É dividir o cansaço, entender os silêncios, segurar a mão mesmo quando o outro tá distante por dentro.</p>
+        <p> Porque tem dias em que o mundo pesa demais, a mente falha, e tudo parece confuso — mas ainda assim, o amor encontra um jeito de existir.</p>
+        <p> Não como conto de fadas, mas como presença. Como cuidado.</p>
+        <p> Amar é isso: continuar sendo abrigo, mesmo quando a tempestade é dentro.</p>
+        <p><br></p>
+        <p>Amar alguém é fácil quando tudo vai bem. Difícil é ficar quando a mente pesa, quando o corpo cansa e os pensamentos viram labirinto.</p>
+        <p> Mesmo assim, você fica.</p>
+        <p> Você me olha com calma quando nem eu me entendo. Me oferece silêncio quando as palavras somem, e presença quando tudo em mim quer fugir.</p>
+        <p> Teu amor não cura tudo, mas segura minha mão quando parece que nada mais segura.</p>
+        <p> E isso... isso é amor de verdade.</p>
+      </div>
+    </div>
+  </div>
