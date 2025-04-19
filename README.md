@@ -1,0 +1,2 @@
+# amoatai
+amo a tai
